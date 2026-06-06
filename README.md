@@ -21,6 +21,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
+### Pricing Overview
+
+| SaaS Product | Pricing Model | Free Tier / Limit |
+| :--- | :--- | :--- |
+| **[Lyncbuild](https://lyncbuild.com/)** | Early Access (Currently Free) | All core features are free during the early access phase. |
+| **[Exitfund](https://exitfund.com/)** | Free | 100% free for startups and investors (no carry/management fees). |
+| **[Signal by NFX](https://www.nfx.com/signal)** | 100% Free | Entirely free community tool; no hidden costs or subscriptions. |
+| **[iKomatch](https://ikomatch.com/)** | Freemium / Success Fee | Free registration and basic access; success fees for cohort programs. |
+| **[Fundverse](https://fundverse.ai/)** | Performance-based | $0 upfront; platform fee only on successfully funded campaigns. |
+| **[EasyVC](https://easyvc.com/)** | Paid (Standard/Premium) | Free trial for setup; messaging with investors requires a paid plan. |
+| **[FundBoard](https://fundboard.io/)** | Free (Inactive) | Previously free; currently listed as out of business (July 2021). |
+| **[AngelList](https://www.angellist.com/)** | Varies by raised capital | Free for startups with <$1M raised; free basic investor profiles. |
+| **[PitchBook](https://pitchbook.com/)** | Paid (~$12,000+/year) | No permanent free tier; limited trials or academic access only. |
+| **[Dealroom.co](https://dealroom.co/)** | Paid (~€12,600/year) | No permanent free tier; 3-7 day free trial available. |
+
 ### Core Platforms (Founder & Investor Networking)
 
 - **[Lyncbuild](https://lyncbuild.com/)**  
