@@ -1,9 +1,17 @@
 # 🚀 Awesome Founder & Investor Networking Workspaces
+<div align="center">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces/network)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+
+</div>
 
 ## 🌟 Top Founder & Investor Networking Workspaces Ecosystem
 
