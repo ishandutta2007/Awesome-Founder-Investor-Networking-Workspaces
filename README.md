@@ -52,45 +52,45 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ## 💻 Open-Source GitHub Projects
 
-### 🛠️ Dedicated Founder-Investor Networking & Deal Flow Tools
 
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-  🚀 Modern open-source CRM designed for startups and investors. Excellent for managing founder-investor relationships, deal pipelines, and networking.
-
-- **[Cal.com](https://github.com/calcom/cal.com)**  
-  📅 Open-source Calendly alternative with powerful scheduling, routing, and embed features ideal for investor meeting booking.
-
-- **[OpenCRM / SuiteCRM](https://github.com/salesagility/SuiteCRM)**  
-  📂 Mature open-source CRM with strong customization for deal flow and investor relationship management.
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**  
-  ⚡ Lightweight, extensible open-source CRM suitable for startup fundraising pipelines and networking.
-
-- **[n8n](https://github.com/n8n-io/n8n)**  
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   🤖 Open-source workflow automation tool that can connect investor databases, LinkedIn, email, and calendars for intelligent networking automation.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
-  🕵️ Open-source personal automation agent for monitoring investor news, triggering introductions, and managing deal flow.
-
-- **[Docmost](https://github.com/docmost/docmost)**  
-  📝 Open-source collaborative wiki and knowledge base perfect for organizing pitch materials and investor research.
-
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   📓 Open-source Notion alternative for building founder workspaces, investor databases, and collaborative deal rooms.
 
-- **[Budibase](https://github.com/Budibase/budibase)**  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  🚀 Modern open-source CRM designed for startups and investors. Excellent for managing founder-investor relationships, deal pipelines, and networking.
+
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+  🕵️ Open-source personal automation agent for monitoring investor news, triggering introductions, and managing deal flow.
+
+- **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+  📅 Open-source Calendly alternative with powerful scheduling, routing, and embed features ideal for investor meeting booking.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
   🏗️ Open-source low-code platform for creating custom investor portals, deal tracking dashboards, and networking tools.
 
-### 🌟 Additional Strong Open-Source Options
 
-- **[Twenty + AI Agents](https://github.com/twentyhq/twenty)** — Enhanced with CrewAI/LangGraph for intelligent matching.
+- **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  📝 Open-source collaborative wiki and knowledge base perfect for organizing pitch materials and investor research.
+
+- **[OpenCRM / SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+  📂 Mature open-source CRM with strong customization for deal flow and investor relationship management.
+
+- **[EspoCRM](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+  ⚡ Lightweight, extensible open-source CRM suitable for startup fundraising pipelines and networking.
+
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) — 🗄️ Turn any database into a powerful investor matching and research workspace.
+- **[Plane](https://github.com/makeplane/plane)** [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) — ✈️ Open-source project management with strong potential for deal flow tracking.
+- **[Twenty + AI Agents](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) — Enhanced with CrewAI/LangGraph for intelligent matching.
 - **[Cal.com + Twenty** integration stacks for complete fundraising workspace.
 - **LangGraph / CrewAI Investor Matching Agents** — Community templates for AI-powered founder-investor discovery.
-- **[Plane](https://github.com/makeplane/plane)** — ✈️ Open-source project management with strong potential for deal flow tracking.
-- **[NocoDB](https://github.com/nocodb/nocodb)** — 🗄️ Turn any database into a powerful investor matching and research workspace.
 - Many community **deal flow CRMs** and **angel investing platforms** built on top of open-source foundations.
 
 **Frameworks for building custom workspaces**: Combine **Twenty** or **EspoCRM** with **Cal.com**, **n8n**, and **LangGraph/CrewAI** agents to create fully open, private, and intelligent founder-investor networking platforms.
+
 
 ## 🙌 How to Contribute
 
