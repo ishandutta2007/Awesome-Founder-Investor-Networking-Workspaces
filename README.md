@@ -13,19 +13,23 @@
 
 </div>
 
-## 🌟 Top Founder & Investor Networking Workspaces Ecosystem
+<div align="center">
+  <img src="assets/banner.svg" alt="Banner" />
+</div>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects for Startup Fundraising**  
+## 🌟 Top Founder & Investor Networking Workspaces Ecosystem 🚀
+
+✨ **Curated List of SaaS Products & Open-Source GitHub Projects for Startup Fundraising**  
 *Focused on Founder-Investor Matching, AI-powered Deal Flow, & Collaborative Networking Platforms*  
 **Last updated: March 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **Founder & Investor Networking Workspaces**. These tools help founders discover relevant investors, manage **fundraising deal flow**, schedule meetings, share pitch materials, track relationships, and streamline the capital-raising process through **intelligent matching** and collaborative workspaces.
 
-**Keywords**: *Investor CRM, Startup Fundraising, Deal Flow Management, Founder-Investor Matching, Venture Capital Software, Open Source CRM for VCs, Pitch Deck Sharing, Networking Workspace.*
+🔑 **Keywords**: *Investor CRM, Startup Fundraising, Deal Flow Management, Founder-Investor Matching, Venture Capital Software, Open Source CRM for VCs, Pitch Deck Sharing, Networking Workspace.*
 
-**Examples** include Lyncbuild, Exitfund, Signal by NFX, iKomatch, Fundverse, EasyVC, and FundBoard (the category leaders). Tools listed here emphasize **intelligent matching**, relationship management, pipeline visibility, and seamless founder-investor collaboration.
+💡 **Examples** include Lyncbuild, Exitfund, Signal by NFX, iKomatch, Fundverse, EasyVC, and FundBoard (the category leaders). Tools listed here emphasize **intelligent matching**, relationship management, pipeline visibility, and seamless founder-investor collaboration.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local deployment, full customization, and privacy-first networking — ideal for startup communities, accelerators, and independent founders who want open and sovereign tools.
+🌍 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local deployment, full customization, and privacy-first networking — ideal for startup communities, accelerators, and independent founders who want open and sovereign tools.
 
 🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
