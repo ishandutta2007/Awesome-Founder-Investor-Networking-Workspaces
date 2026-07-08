@@ -116,17 +116,17 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - 🛡️ Self-hosted open-source solutions require proper security and maintenance.
 
 
-## 📈 Star History
-
+##  Star History
 <div align="center">
-	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right">
-	 <picture>
-	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&theme=dark&legend=bottom-right" />
-	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right" />
-	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right" />
-	 </picture>
-	</a>
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces&type=date&legend=bottom-right" />
+</picture>
+</a>
 </div>
+
 
 
 ---
