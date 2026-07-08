@@ -6,6 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces/network)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 <br />
 <br />
   <a href="https://github.com/ishandutta2007">
