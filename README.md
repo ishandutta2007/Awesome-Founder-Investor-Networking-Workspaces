@@ -37,18 +37,18 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ## 💳 SaaS Products
 
-| SaaS Product | Description | Pricing Model | Free Tier / Limit |
-| :--- | :--- | :--- | :--- |
-| **[Lyncbuild](https://lyncbuild.com/)** | Intelligent networking workspace that matches founders with the right investors using AI and manages warm intros and deal flow. | Early Access (Currently Free) | All core features are free during the early access phase. |
-| **[Exitfund](https://exitfund.com/)** | Founder-focused platform connecting startups with investors and providing tools for efficient fundraising workflows. | Free | 100% free for startups and investors (no carry/management fees). |
-| **[Signal by NFX](https://www.nfx.com/signal)** | Highly regarded investor-founder matching and deal flow platform from NFX with strong network intelligence. | 100% Free | Entirely free community tool; no hidden costs or subscriptions. |
-| **[iKomatch](https://ikomatch.com/)** | AI-powered investor matching and networking workspace designed specifically for startup fundraising. | Freemium / Success Fee | Free registration and basic access; success fees for cohort programs. |
-| **[Fundverse](https://fundverse.ai/)** | Comprehensive platform for founder-investor collaboration, deal tracking, and intelligent matchmaking. | Performance-based | $0 upfront; platform fee only on successfully funded campaigns. |
-| **[EasyVC](https://easyvc.com/)** | Simplified workspace that helps founders find and connect with relevant venture capital firms. | Paid (Standard/Premium) | Free trial for setup; messaging with investors requires a paid plan. |
-| **[FundBoard](https://fundboard.io/)** | Collaborative deal flow and investor networking platform for startups and funds. | Free (Inactive) | Previously free; currently listed as out of business (July 2021). |
-| **[AngelList](https://www.angellist.com/)** | Advanced platform for startups and investors, accelerator-specific tools. | Varies by raised capital | Free for startups with <$1M raised; free basic investor profiles. |
-| **[PitchBook](https://pitchbook.com/)** | Advanced platform for comprehensive financial data and research. | Paid (~$12,000+/year) | No permanent free tier; limited trials or academic access only. |
-| **[Dealroom.co](https://dealroom.co/)** | Advanced platform for startup data and ecosystem insights. | Paid (~€12,600/year) | No permanent free tier; 3-7 day free trial available. |
+| SaaS Product | Description | Pricing Model | Free Tier / Limit | Company Size (Revenue/Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[PitchBook](https://pitchbook.com/)** | Advanced platform for comprehensive financial data and research. | Paid (~$12,000+/year) | No permanent free tier; limited trials or academic access only. | $30B+ |
+| **[AngelList](https://www.angellist.com/)** | Advanced platform for startups and investors, accelerator-specific tools. | Varies by raised capital | Free for startups with <$1M raised; free basic investor profiles. | $4B |
+| **[Dealroom.co](https://dealroom.co/)** | Advanced platform for startup data and ecosystem insights. | Paid (~€12,600/year) | No permanent free tier; 3-7 day free trial available. | $50M+ |
+| **[Exitfund](https://exitfund.com/)** | Founder-focused platform connecting startups with investors and providing tools for efficient fundraising workflows. | Free | 100% free for startups and investors (no carry/management fees). | $10M |
+| **[Lyncbuild](https://lyncbuild.com/)** | Intelligent networking workspace that matches founders with the right investors using AI and manages warm intros and deal flow. | Early Access (Currently Free) | All core features are free during the early access phase. | $5M |
+| **[EasyVC](https://easyvc.com/)** | Simplified workspace that helps founders find and connect with relevant venture capital firms. | Paid (Standard/Premium) | Free trial for setup; messaging with investors requires a paid plan. | $2M |
+| **[Fundverse](https://fundverse.ai/)** | Comprehensive platform for founder-investor collaboration, deal tracking, and intelligent matchmaking. | Performance-based | $0 upfront; platform fee only on successfully funded campaigns. | $1M |
+| **[iKomatch](https://ikomatch.com/)** | AI-powered investor matching and networking workspace designed specifically for startup fundraising. | Freemium / Success Fee | Free registration and basic access; success fees for cohort programs. | $1M |
+| **[Signal by NFX](https://www.nfx.com/signal)** | Highly regarded investor-founder matching and deal flow platform from NFX with strong network intelligence. | 100% Free | Entirely free community tool; no hidden costs or subscriptions. | N/A (Community/VC) |
+| **[FundBoard](https://fundboard.io/)** | Collaborative deal flow and investor networking platform for startups and funds. | Free (Inactive) | Previously free; currently listed as out of business (July 2021). | $0 (Inactive) |
 
 ## 💻 Open-Source GitHub Projects
 
