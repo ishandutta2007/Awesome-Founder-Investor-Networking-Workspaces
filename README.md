@@ -1,6 +1,7 @@
 # 🚀 Awesome Founder & Investor Networking Workspaces
 <div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Founder-Investor-Networking-Workspaces/stargazers)
@@ -18,6 +19,8 @@
 </div>
 
 ## 🌟 Top Founder & Investor Networking Workspaces Ecosystem 🚀
+
+<!-- SEO Optimization: Explore the best CRM and deal flow management tools for startups, VCs, angel investors, and founders. Find AI-powered matchmaking platforms and open-source alternatives. -->
 
 ✨ **Curated List of SaaS Products & Open-Source GitHub Projects for Startup Fundraising**  
 *Focused on Founder-Investor Matching, AI-powered Deal Flow, & Collaborative Networking Platforms*  
